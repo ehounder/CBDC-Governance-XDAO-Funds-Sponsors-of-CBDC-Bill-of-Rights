@@ -9,7 +9,7 @@ by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://tw
 ##Information Crisis 2022: CBDC Programmable Money
 **Programmable Money and AI Infrastructure are coming like 1984 gone digital.**
 
-**Best Case Solution:** The CBDC Governance XDAO at [cbdcgovxdao.com](https://cbdcgovxdao.com) seeks membership to make **USDC EUROC CBDCX CBDCY CBDCZ etc.** campaign contributions to elected sponsors of regulations requiring their national bill of rights, freedoms, and duties to have a **CBDC Bill of Rights** encoded into the administration of their **[programmable money](https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets)** in every nation seeking public trust and confidence towards converting to a sovereign CBDC. 
+**Best Case Solution:** The CBDC Governance XDAO at [worldblockchaincomputer.org](https://worldblockchaincomputer.org) seeks membership to make **USDC EUROC CBDCX CBDCY CBDCZ etc.** campaign contributions to elected sponsors of regulations requiring their national bill of rights, freedoms, and duties to have a **CBDC Bill of Rights** encoded into the administration of their **[programmable money](https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets)** in every nation seeking public trust and confidence towards converting to a sovereign CBDC. 
 
 Thus all three of Ripple's innovative objectives of financial inclusion, retail-facing, and interoperability are at work, however, *macroscopic financial inclusion* is of the essence. Consider the reality amid the human geopolitical monetary, fiscal, debt, everything...crisis increasingly the "smartest people in the world" have decided to start developing cryptocurrencies and digital assets. There is a reason for that: every engineer knows every complex system requires a restoring force or the broken system will self-destruct to the point there is no inclusion financial or otherwise.
 
@@ -23,7 +23,7 @@ First order of business is the **CBDC Governance XDAO charter ratification vote*
 - **LaTeX template for Member Proposals is available in [GitHub Repository](https://github.com/ehounder/CBDC-Governance-XDAO-Funds-Sponsors-of-CBDC-Bill-of-Rights) whereas LaTeX editors are available for free download for all operating systems. Members are encouraged to write proposals on known matters including accredited investors, naked shorts, asset confiscation, and so on.**
 
 ##Invitation for Membership in CBDC Governance XDAO
-Global invitation is extended for membership in the [CBDC Governance XDAO](https://cbdcgovxdao.com) to everyone interested in more efficient self-interest representation in the current global crisis of the monetary, fiscal, taxation, total economic imperialism reset of the emergent digital Industrial Revolution 4.0:
+Global invitation is extended for membership in the [CBDC Governance XDAO](https://worldblockchaincomputer.org) to everyone interested in more efficient self-interest representation in the current global crisis of the monetary, fiscal, taxation, total economic imperialism reset of the emergent digital Industrial Revolution 4.0:
 - **1st Vote for CBDC Governance XDAO charter ratification ends on US Midterm Election day 8 November 2022.**
 - **Quorum for all voting proposals is set at 60%**
 - **Membership requires Chrome extension [Metamask wallet address](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to sign.**
