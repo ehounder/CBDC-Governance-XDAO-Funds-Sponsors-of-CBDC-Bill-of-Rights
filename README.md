@@ -3,7 +3,7 @@
 ## [Devpost Hackathon: Ripple CBDC Innovate project - with Youtube Video](https://devpost.com/software/cbdc-web3-site-hosts-xrpl-hooks-xrp-stamp-smartnfts-network)
 
 
-by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)  (reload page if Youtube video not visible above)
+by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)
 
 - Information Crisis 2022:  CBDC Programmable Money
 - Charter Ratification Vote for CBDC Governance XDAO
