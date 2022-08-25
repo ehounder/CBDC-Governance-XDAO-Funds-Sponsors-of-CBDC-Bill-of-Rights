@@ -1,3 +1,5 @@
+![CBDC Governance XDAO Logo](/cbdcgovxdao_logo.png)
+
 ## [CBDC Governance XDAO Funds Sponsors of CBDCs Bill of Rights - with Youtube Video](https://devpost.com/software/cbdc-web3-site-hosts-xrpl-hooks-xrp-stamp-smartnfts-network)
 
 
