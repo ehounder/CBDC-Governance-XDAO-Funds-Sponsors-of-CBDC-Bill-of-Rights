@@ -1,4 +1,4 @@
-##[CBDC Governance XDAO Funds Sponsors of CBDCs Bill of Rights - with Youtube Video](https://devpost.com/software/cbdc-web3-site-hosts-xrpl-hooks-xrp-stamp-smartnfts-network)
+## [CBDC Governance XDAO Funds Sponsors of CBDCs Bill of Rights - with Youtube Video](https://devpost.com/software/cbdc-web3-site-hosts-xrpl-hooks-xrp-stamp-smartnfts-network)
 
 
 by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)  (reload page if Youtube video not visible above)
