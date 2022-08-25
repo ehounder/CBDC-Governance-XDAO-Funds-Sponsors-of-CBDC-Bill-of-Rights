@@ -9,7 +9,7 @@ by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://tw
 - Charter Ratification Vote for CBDC Governance XDAO
 - Invitation for Membership in CBDC Governance XDAO
 - XDC Network XDPoS vs Ethereum 2.0 PoS Forkery
-- Advisable for Circle USDC Migration to ➙ USDC XDC Network
+- Advisable for Circle to Expedite USDC Integration with XDC Network
 
 ## Human-AI Crisis 2022: CBDC Programmable Money
 **Programmable Money and AI Infrastructure are coming like 1984 gone digital.**
