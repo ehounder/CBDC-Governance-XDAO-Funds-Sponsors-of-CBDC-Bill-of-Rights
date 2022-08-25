@@ -39,7 +39,7 @@ The XDC Network is an independent blockchain optimized for international trade a
 
 Said transaction standard is exactly the PoS scalability, reliability, and low fee solution the Ethereum 2.0 forkery has been struggling to achieve since the unregistered Ethereum Alliance ICO. However, the latest countdown to a 15 September 2022 fork is encountering conflicting technical and financial counter-incentives - meaning stablecoins like Circle have no incentive to validate USDC on two separate forks and EVM node operators are leveraged into maintaining high (banking) transaction gas fees.
 
-##Advisable for Circle USDC Migration to ➙ USDC XDC Network
+##Advisable for Circle to Build USDC XDC Network
 
 ### Acknowledgements
 The Devpost Hackathon platform has proven to be a great platform for RippleX development projects. 
