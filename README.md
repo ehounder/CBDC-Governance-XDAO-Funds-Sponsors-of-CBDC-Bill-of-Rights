@@ -5,13 +5,13 @@
 
 by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)
 
-- Information Crisis 2022:  CBDC Programmable Money
+- Human-AI Crisis 2022:  CBDC Programmable Money
 - Charter Ratification Vote for CBDC Governance XDAO
 - Invitation for Membership in CBDC Governance XDAO
 - XDC Network XDPoS vs Ethereum 2.0 PoS Forkery
 - Advisable for Circle USDC Migration to ➙ USDC XDC Network
 
-## Information Crisis 2022: CBDC Programmable Money
+## Human-AI Crisis 2022: CBDC Programmable Money
 **Programmable Money and AI Infrastructure are coming like 1984 gone digital.**
 
 **Best Case Solution:** The CBDC Governance XDAO at [worldblockchaincomputer.org](https://worldblockchaincomputer.org) seeks membership to make **USDC EUROC CBDCX CBDCY CBDCZ etc.** campaign contributions to elected sponsors of regulations requiring their national bill of rights, freedoms, and duties to have a **CBDC Bill of Rights** encoded into the administration of their **[programmable money (see Sec. 4)](https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets)** in every nation seeking public trust and confidence towards converting to a sovereign CBDC. 
