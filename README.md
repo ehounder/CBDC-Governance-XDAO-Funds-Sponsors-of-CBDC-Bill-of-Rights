@@ -33,7 +33,7 @@ Global invitation is extended for membership in the [CBDC Governance XDAO](https
 - **Quorum for all voting proposals is set at 60%**
 - **Membership requires Chrome extension [Metamask wallet address](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) to sign.**
 - **Voting for new members repeats every day per standard XDAO rules & tutorials on [XDAO app website](https://www.xdao.app).**
-- **Liquidity Provider (LP) Token CBDCLP initial public offer of 1 LP CBDCLP Token = 1 XDC proposal is for half of AUM to go towards funding sponsors of CBDC Bill of Rights measures and half towards XinFin Network investment instruments seeking 7% or better.**
+- **Liquidity Provider (LP) Token CBDCLP initial public offer of 1 LP CBDCLP Token = 1 XDC proposal is for half of AUM to go towards funding sponsors of CBDC Bill of Rights measures and half towards XinFin Network investment instruments seeking 7% or better which members can withdraw at any time.**
 - **[XDCPay](https://chrome.google.com/webstore/detail/xdcpay/bocpokimicclpaiekenaeelehdjllofo) Chrome extension coming soon.**
 
 ## XDC Network XDPoS vs Ethereum 2.0 PoS Forkery
