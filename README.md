@@ -7,7 +7,7 @@ by David Harness, contact on Twitter: [davidtech.crypto @tensornerdo](https://tw
 
 - Human-AI Crisis 2022:  CBDC Programmable Money
 - Charter Ratification Vote for CBDC Governance XDAO
-- Invitation for Membership in CBDC Governance XDAO
+- Invitation for Membership/Investment in CBDC Governance XDAO
 - XDC Network XDPoS vs Ethereum 2.0 PoS Forkery
 - Advisable for Circle to Expedite USDC Integration with XDC Network
 
@@ -27,7 +27,7 @@ First order of business is the **CBDC Governance XDAO charter ratification vote*
 - **Proposals recorded & transmitted on [XRP Ledger](https://livenet.xrpl.org) via [XRP Stamp Data notarization file system](https://xrpstamp.com) same as land deeds.**
 - **LaTeX template for Member Proposals is available in [GitHub Repository](https://github.com/ehounder/CBDC-Governance-XDAO-Funds-Sponsors-of-CBDC-Bill-of-Rights) whereas LaTeX editors are available for free download for all operating systems. Members are encouraged to write proposals on known matters including accredited investors, naked shorts, asset confiscation, and so on.**
 
-## Invitation for Membership in CBDC Governance XDAO
+## Invitation for Membership/Investment in CBDC Governance XDAO
 Global invitation is extended for membership in the [CBDC Governance XDAO](https://worldblockchaincomputer.org) to everyone interested in more efficient self-interest representation in the current global crisis of the monetary, fiscal, taxation, total economic imperialism reset of the emergent digital Industrial Revolution 4.0:
 - **1st Vote for CBDC Governance XDAO charter ratification ends on US Midterm Election day 8 November 2022.**
 - **Quorum for all voting proposals is set at 60%**
