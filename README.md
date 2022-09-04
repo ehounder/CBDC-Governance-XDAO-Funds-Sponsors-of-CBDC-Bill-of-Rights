@@ -1,6 +1,6 @@
 ![CBDC Governance XDAO Logo](/cbdcgovxdao_logo.png)
 
-by David Harness <br />Apple Developer ID: U2S9XH4H22 <br />Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)  (reload page if video not visible above)
+by David Harness <br />Apple Developer ID: U2S9XH4H22 <br />Twitter: [davidtech.crypto @tensornerdo](https://twitter.com/tensornerdo)
 
 - Human-AI Crisis 2022:  CBDC Programmable Money
 - Charter Ratification Vote for CBDC Governance XDAO
