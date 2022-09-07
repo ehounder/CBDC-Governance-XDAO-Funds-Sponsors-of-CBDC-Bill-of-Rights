@@ -9,7 +9,7 @@ by David Harness <br />Apple Developer ID: U2S9XH4H22 <br />Twitter: [davidtech.
 - Advisable for Circle to Expedite USDC Integration with XDC Network
 
 ## Human-AI Crisis 2022: CBDC Programmable Money
-**Programmable Money and AI Infrastructure are coming like 1984 gone digital.**
+**AI-Programmable Money is the biggest problem civilization has right now coming like 1984 gone digital.**
 
 **Best Case Solution:** The [CBDC Governance XDAO](https://worldblockchaincomputer.org) **liquidity providers** fund **USDC EUROC CBDCXYZ campaign contributions** to elected sponsors of legislative measures requiring their  bill of rights, freedoms, duties and so on rendered into the constitutional-financial inclusion of a **CBDC Bill of Rights** in the administration of **[CBDC programmable money (see Executive Order 14067 of March 9, 2022 Sec. 4)](https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets)** - in exchange for liquidity providers' **capital investments** in the [BIS global monetary and fiscal-taxation cryptocurrency reset](https://www.imf.org/en/Publications/fandd/issues/2022/09/A-foundation-of-trust-Carsten-Frost-Shin). 
 
